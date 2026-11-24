@@ -139,7 +139,7 @@ routing {
 }
 
 global {
-    lan_interface: eth0 # 改成自己的局域网网卡，ip a 查看
+    lan_interface: br-lan # 改成自己的局域网网卡，ip a 查看
     wan_interface: auto
     data_dir: '/etc/honk'
     dial_mode: domain
