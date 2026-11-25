@@ -126,7 +126,7 @@
       "dashboard": {
         "enabled": true,
         "path": "/etc/sing-box/dashboard",
-        "download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip"
+        "download_url": "https://github.com/SagerNet/sing-box-dashboard/archive/refs/heads/gh-pages.zip"
       }
     }
   ],
