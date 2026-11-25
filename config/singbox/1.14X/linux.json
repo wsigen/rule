@@ -126,7 +126,7 @@
       "dashboard": {
         "enabled": true,
         "path": "/etc/sing-box/dashboard",
-        "download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip"
+        "download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip"
       }
     }
   ],
@@ -139,7 +139,7 @@
     "clash_api": {
       "external_controller": "0.0.0.0:9095",
       "external_ui": "/etc/sing-box/ui",
-      "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+      "external_ui_download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip",
       "secret": "",
       "default_mode": "Rule"
     }
