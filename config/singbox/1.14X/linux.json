@@ -122,11 +122,11 @@
       "type": "api",
       "listen": "0.0.0.0",
       "listen_port": 9090,
-      "secret": "passwd",
+      "secret": "",
       "dashboard": {
         "enabled": true,
         "path": "/etc/sing-box/dashboard",
-        "download_url": "https://github.com/SagerNet/sing-box-dashboard/archive/refs/heads/gh-pages.zip"
+        "download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip"
       }
     }
   ],
@@ -139,8 +139,8 @@
     "clash_api": {
       "external_controller": "0.0.0.0:9095",
       "external_ui": "/etc/sing-box/ui",
-      "external_ui_download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip",
-      "secret": "passwd",
+      "external_ui_download_url": "https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip",
+      "secret": "",
       "default_mode": "Rule"
     }
   },
